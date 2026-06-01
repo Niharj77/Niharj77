@@ -197,7 +197,7 @@ Platforms:  TryHackMe  ·  HackTheBox  ·  CTF Rank: Top 15%
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=niharj777&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=niharj77&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niharj777&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 
 <br/>
