@@ -193,18 +193,6 @@ Platforms:  TryHackMe  ·  HackTheBox  ·  CTF Rank: Top 15%
 
 ---
 
-## `$ ping ./github_stats`
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Niharj77&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niharj77&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
-
-<br/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Niharj77&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)
-
-</div>
 
 ---
 
